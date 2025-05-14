@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="countryISOCode">Country ISO Code</string>
+    <string name="cityName">City Name</string>
+    <string name="getInfo">Get Info</string>
+    <string name="temperature">Temperature</string>
+    <string name="currentTemperature">Current</string>
+    <string name="minimumTemperature">Minimum</string>
+    <string name="maxTemperature">Maximum</string>
+
+</resources>
