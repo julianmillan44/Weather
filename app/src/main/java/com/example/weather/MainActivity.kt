@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var btnGetInfo: MaterialButton
 
     //ApiKey de OpenWeather
-    private val apiKey = "983451457c84601521a69e20d30e0c91"
+    private val apiKey = "Your API Key Here"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
